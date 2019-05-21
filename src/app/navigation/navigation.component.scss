@@ -9,4 +9,9 @@
     text-transform: uppercase;
     text-decoration: none;
   }
+  .esteLinkEstaActivo {
+    text-decoration: underline;
+    text-decoration-color: red;
+    cursor: text;
+  }
 }
