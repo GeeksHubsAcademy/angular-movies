@@ -1,5 +1,11 @@
 # AngularFilms
 
+Proyecto didáctico con Angular 7, Servicios , API-Rest de tercero y flexbox layout
+
+[demo](https://geekshubsacademy.github.io/angular-movies/.)
+
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.8.
 
 ## Development server
